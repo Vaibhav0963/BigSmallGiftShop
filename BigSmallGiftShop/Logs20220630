@@ -1,0 +1,72 @@
+ | INF | Selecting feature file "AddtoCart" to run 
+ | INF | Selecting scenario "Add item to Add To Cart" to run 
+ | DBG | click on NewProduct 
+ | DBG | click on any one item 
+ | DBG | click add to cart button 
+ | INF | Selecting feature file "AddtoCart" to run 
+ | INF | Selecting scenario "Add item to Add To Cart" to run 
+ | DBG | click on NewProduct 
+ | DBG | click on any one item 
+ | DBG | click add to cart button 
+ | INF | Selecting feature file "BigSmall" to run 
+ | INF | Selecting scenario "To check New User Create Acoount Succesfully or Not" to run 
+ | ERR | Test Step Failed | unknown error: cannot determine loading status
+from unknown error: unexpected command response
+  (Session info: chrome=103.0.5060.53) 
+ | INF | Selecting feature file "CheckingSearchFunction" to run 
+ | INF | Selecting scenario "Checking Search Functionality is working or not" to run 
+ | INF | Selecting scenario "Checking Search Functionality is working or not" to run 
+ | INF | Selecting scenario "Checking Search Functionality is working or not" to run 
+ | INF | Selecting feature file "Corporate" to run 
+ | INF | Selecting scenario "TO fill Coporate deatils" to run 
+ | INF | Selecting feature file "PincodeCkeck1" to run 
+ | INF | Selecting scenario "Check to Delivery is Your Pincode Or Not" to run 
+ | INF | Selecting feature file "Wishlist" to run 
+ | INF | Selecting scenario "Add item to Wishlist" to run 
+ | INF | Selecting feature file "BigSmall" to run 
+ | INF | Selecting scenario "To check New User Create Acoount Succesfully or Not" to run 
+ | ERR | Test Step Failed | unknown error: cannot determine loading status
+from unknown error: unexpected command response
+  (Session info: chrome=103.0.5060.53) 
+ | INF | Selecting feature file "BigSmall" to run 
+ | INF | Selecting scenario "To check New User Create Acoount Succesfully or Not" to run 
+ | ERR | Test Step Failed | unknown error: cannot determine loading status
+from unknown error: unexpected command response
+  (Session info: chrome=103.0.5060.53) 
+ | INF | Selecting feature file "Corporate" to run 
+ | INF | Selecting scenario "TO fill Coporate deatils" to run 
+ | INF | Selecting feature file "PincodeCkeck1" to run 
+ | INF | Selecting scenario "Check to Delivery is Your Pincode Or Not" to run 
+ | INF | Selecting feature file "Wishlist" to run 
+ | INF | Selecting scenario "Add item to Wishlist" to run 
+ | INF | Selecting feature file "BigSmall" to run 
+ | INF | Selecting scenario "To check New User Create Acoount Succesfully or Not" to run 
+ | ERR | Test Step Failed | unknown error: cannot determine loading status
+from unknown error: unexpected command response
+  (Session info: chrome=103.0.5060.53) 
+ | INF | Selecting feature file "BigSmall" to run 
+ | INF | Selecting scenario "To check New User Create Acoount Succesfully or Not" to run 
+ | INF | Selecting feature file "Wishlist" to run 
+ | INF | Selecting scenario "Add item to Wishlist" to run 
+ | INF | Selecting feature file "AddtoCart" to run 
+ | INF | Selecting scenario "Add item to Add To Cart" to run 
+ | DBG | click on NewProduct 
+ | DBG | click on any one item 
+ | DBG | click add to cart button 
+ | INF | Selecting feature file "BigSmall" to run 
+ | INF | Selecting scenario "To check New User Create Acoount Succesfully or Not" to run 
+ | ERR | Test Step Failed | unknown error: cannot determine loading status
+from unknown error: unexpected command response
+  (Session info: chrome=103.0.5060.53) 
+ | INF | Selecting feature file "CheckingSearchFunction" to run 
+ | INF | Selecting scenario "Checking Search Functionality is working or not" to run 
+ | INF | Selecting scenario "Checking Search Functionality is working or not" to run 
+ | INF | Selecting scenario "Checking Search Functionality is working or not" to run 
+ | INF | Selecting feature file "Corporate" to run 
+ | INF | Selecting scenario "TO fill Coporate deatils" to run 
+ | INF | Selecting feature file "PincodeCkeck1" to run 
+ | INF | Selecting scenario "Check to Delivery is Your Pincode Or Not" to run 
+ | INF | Selecting feature file "Wishlist" to run 
+ | INF | Selecting scenario "Add item to Wishlist" to run 
+ | ERR | Test Step Failed | element not interactable
+  (Session info: chrome=103.0.5060.53) 
